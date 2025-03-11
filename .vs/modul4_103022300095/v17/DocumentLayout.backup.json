@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\modul4_103022300095\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5641BDBC-6CB3-46A7-B441-DF47FE940267}|modul4_103022300095.csproj|d:\\modul4_103022300095\\kodeproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5641BDBC-6CB3-46A7-B441-DF47FE940267}|modul4_103022300095.csproj|solutionrelative:kodeproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5641BDBC-6CB3-46A7-B441-DF47FE940267}|modul4_103022300095.csproj|d:\\modul4_103022300095\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5641BDBC-6CB3-46A7-B441-DF47FE940267}|modul4_103022300095.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "KodeProduk.cs",
+              "DocumentMoniker": "D:\\modul4_103022300095\\KodeProduk.cs",
+              "RelativeDocumentMoniker": "KodeProduk.cs",
+              "ToolTip": "D:\\modul4_103022300095\\KodeProduk.cs",
+              "RelativeToolTip": "KodeProduk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:58:46.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\modul4_103022300095\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\modul4_103022300095\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T23:54:29.042Z",
               "EditorCaption": ""
