@@ -28,17 +28,4 @@
             }
         }
     }
-
-    public class Program
-    {
-
-
-        public static void Main()
-        {
-            Console.WriteLine("Masukkan kode produk: ");
-            string kode = Console.ReadLine();
-            string namaProduk = KodeProduk.GetNamaProduk(kode);
-            Console.WriteLine("Nama Produk: " + namaProduk);
-        }
-    }
 }
